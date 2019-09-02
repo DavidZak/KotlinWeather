@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KotlinWeather</string>
+
+
+    <string name="geolocation_error">Не удалось определить местоположение</string>
+
+    <string name="degree_format">%1$.0f ˚</string>
+
+</resources>
